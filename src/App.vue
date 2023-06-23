@@ -8,41 +8,6 @@
 const str = '爱说大组该哦'
 function f1() {
   console.log('xxx')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 </script>
 
