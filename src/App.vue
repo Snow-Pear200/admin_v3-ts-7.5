@@ -5,21 +5,17 @@
 </template>
 
 <script setup lang="ts">
-const str = '爱说大组该哦';
+const str = '爱说大组该哦'
 function f1() {
 
 
-  console.log('xxx');
+
+
+  console.log('xxx')
 
 
 
 }
-
-
-
-
-
-
 </script>
 
 <style scoped lang="scss">
